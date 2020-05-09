@@ -125,7 +125,7 @@
           <cursorShape>IBeamCursor</cursorShape>
          </property>
          <property name="text">
-          <string>N/A</string>
+          <string>09 May 2020</string>
          </property>
          <property name="textFormat">
           <enum>Qt::PlainText</enum>
