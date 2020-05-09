@@ -33,7 +33,7 @@ SendCoinsDialog::SendCoinsDialog(QWidget *parent) :
 
 #if QT_VERSION >= 0x040700
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a YaCoin address (e.g. YFJpVxeBAu1romfLQGxC3JvZ6SCsuoE1mU)"));
+    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a BTCtalkcoin address (e.g. CXLTpiRDm1VNZBPHcDkeFprKtzvC9FbB7C)"));
 #endif
 
     addEntry();
