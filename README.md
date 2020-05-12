@@ -1,9 +1,7 @@
 
-BTCtalkcoin - BCC
-=======
-BTCtalkcoin
+BTCtalkcoin - TALK
 ===========
 
-Version 1.5
+Version 1.5.2.3
 
-https://bitcointalk.org/index.php?topic=570750.0
+https://bitcointalk.org/index.php?topic=864994.0
